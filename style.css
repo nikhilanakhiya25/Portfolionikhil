@@ -11,7 +11,12 @@
     --shadow-black300: 0 5px 15px rgba(0, 0, 0, .3);
     --black-alpha100: 0 5px 15px rgba(0, 0, 0, .05);
 }
-
+#contact-form{
+    
+    padding-left: 451px;
+        margin: unset;
+    
+}
 body {
     
     font-size: 16px;
